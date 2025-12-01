@@ -1,0 +1,15 @@
+{
+  "name": "ceots__style",
+  "owner": {
+    "name": "CEOToolSuite",
+    "email": "support@ceots.io"
+  },
+  "plugins": [
+    {
+      "name": "ceots__style",
+      "source": "./",
+      "description": "CEOTS EcmaScript Style",
+      "version": "1.0.0"
+    }
+  ]
+}

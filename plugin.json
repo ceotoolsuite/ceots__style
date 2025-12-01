@@ -1,0 +1,13 @@
+{
+  "name": "ceots__style",
+  "version": "1.0.0",
+  "description": "CEOTS EcmaScript Style",
+  "author": "CEOToolSuite",
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "style",
+    "conventions",
+    "ecmascript"
+  ]
+}
