@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "ceots__style",
-      "source": "./../",
+      "source": "./",
       "description": "CEOTS EcmaScript Style",
       "version": "1.0.0"
     }
